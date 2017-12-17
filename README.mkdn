@@ -2,7 +2,7 @@
 Resurrection OS Marshmallow Source 2016
 ===================
 
-<img src="https://github.com/BlackDeaths/platform_manifest/testen/beast.jpg">
+<img src="https://github.com/BlackDeaths/platform_manifest/blob/testen/beast.jpg">
 
 
 [Join the Resurrection Remix Team](http://forum.resurrectionremix.com/index.php?topic=2037.new#new)

@@ -2,6 +2,8 @@
 Resurrection OS Marshmallow Source 2016
 ===================
 
+<img src="https://raw.githubusercontent.com/BlackDeaths/platform_manifest/teseten/beast.jpg">
+
 
 [Join the Resurrection Remix Team](http://forum.resurrectionremix.com/index.php?topic=2037.new#new)
 
